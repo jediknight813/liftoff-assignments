@@ -33,3 +33,11 @@ teamwork
 
 ### Project Tracker
 https://trello.com/c/CnEQwPoT/6-finish-project-planning
+
+
+### wireframe
+
+![CollectionPageWireframe](https://user-images.githubusercontent.com/17935336/206518732-1cce53bb-713b-4db2-ab11-e0204220901d.png)
+![homepageWireframe](https://user-images.githubusercontent.com/17935336/206518737-b2f7aa58-ecb9-4366-a7a8-a769c83427a7.png)
+
+
